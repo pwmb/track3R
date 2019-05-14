@@ -1,0 +1,20 @@
+{
+  "name": "track3r",
+  "version": "1.0.0",
+  "description": "Tracker is a API Factory Client for tracking shipment from various delivery partner",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoumeshBanerjee/track3R.git"
+  },
+  "author": "Soumesh Banerjee <soumeshbanerjee@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoumeshBanerjee/track3R/issues"
+  },
+  "homepage": "https://github.com/SoumeshBanerjee/track3R#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0"
+  }
+}
