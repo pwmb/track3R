@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/SoumeshBanerjee/track3R#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "dotenv": "^8.0.0"
   }
 }
